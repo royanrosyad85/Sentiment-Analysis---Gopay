@@ -241,10 +241,6 @@ Kontribusi sangat diterima! Silakan:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 👥 Authors
-
-- **Royan** - *Initial work* - Laskar AI Cohort - Machine Learning Development
-
 ## 🙏 Acknowledgments
 
 - [Sastrawi](https://github.com/har07/Sastrawi) untuk stemming bahasa Indonesia
@@ -252,13 +248,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [NLTK](https://nltk.org/) untuk text processing utilities
 - Lexicon dataset dari komunitas NLP Indonesia
 
-## 📞 Contact
-
-Untuk pertanyaan atau kolaborasi, silakan hubungi:
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin-profile]
-- GitHub: [your-github-profile]
-
----
 
 **Note**: Proyek ini dibuat untuk tujuan edukasi dan penelitian dalam bidang Natural Language Processing dan Sentiment Analysis.
